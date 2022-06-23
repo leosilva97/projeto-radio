@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html, body{
+    background-color: #122A40;
+}
+
+
+header{
+    color: white;
+    text-align: center;
+}
+
+
+
+p.primeiro{
+    display: inline-block;
+    text-align: center;
+}
+
+header > p.segundo{
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #4ED98A;
+    text-align: right;
+}
+    
+
+
+
+    
+   
